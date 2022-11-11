@@ -2,7 +2,7 @@ let username=prompt("---ADINIZ--");
 document.getElementById("username").innerHTML=username;
 
 
-
+ 
 function zaman(){
 
     var zmn=new Date()
